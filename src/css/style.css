@@ -1,0 +1,6 @@
+.is-bottom{
+    position: absolute;
+    left: 50%;
+    bottom: 1em;
+    transform: translateX(-50%);
+}
