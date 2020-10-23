@@ -1,0 +1,9 @@
+.form{
+    width: 90%;
+    margin: auto;
+}
+
+button[type="submit"]{
+    display: flex;
+    justify-content: center;
+}

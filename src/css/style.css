@@ -1,5 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
+
+body{
+    background-color: #285943;
+    color: #ffffff;
+    padding: 0;
+    margin:0;
+}
+
 .is-bottom{
     display: flex;
     justify-content: center;
-    margin-bottom: 4em;
+    padding-bottom: 2em;
+}
+
+.content{
+    font-family: 'Grandstander', cursive;
+}
+
+.container{
+    width: 95%;
+    margin: auto;
 }

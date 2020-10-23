@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["form","document","forms","onsubmit","e","preventDefault"],"mappings":";AAAA,IAAMA,EAAOC,SAASC,MAAM,GAE5BF,EAAKG,SAAW,SAAAC,GACZA,EAAEC","file":"src.f0b0e83d.js","sourceRoot":"../src","sourcesContent":["const form = document.forms[0];\n\nform.onsubmit = e => {\n    e.preventDefault();\n}"]}

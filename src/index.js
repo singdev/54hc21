@@ -1,5 +1,7 @@
-const form = document.forms[0];
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/App';
 
-form.onsubmit = e => {
-    e.preventDefault();
-}
+const rootElement = document.getElementById('root');
+
+ReactDOM.render(<App />, rootElement);
